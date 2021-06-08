@@ -17,7 +17,7 @@
  - Creating sync objects to do GPU GPU sync and GPU CPU sync (Semaphores and Fences)
 
 #### The goal of the application is to draw a triangle like this:
-
+![Result Image](https://github.com/IgorChavesMoura/vulkan-basics/raw/master/Capture.PNG)
 
 ### Requirements to run the application
  - LunarG VulkanSDK
